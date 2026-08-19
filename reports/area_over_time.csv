@@ -1,0 +1,8 @@
+step,label,glacier_cells,non_glacier_cells
+-1,before (older snapshot),136763.0,96876937.0
+0,after (current snapshot),115837.0,96897863.0
+1,simulated +1,103619.0,96910081.0
+2,simulated +2,92473.0,96921227.0
+3,simulated +3,82292.0,96931408.0
+4,simulated +4,73134.0,96940566.0
+5,simulated +5,65074.0,96948626.0
